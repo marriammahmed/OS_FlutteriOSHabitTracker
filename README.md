@@ -6,6 +6,8 @@ The app combines a <B>habit tracker, to-do list, and planner</B> into one tool t
 Features include <B>notifications, calendar integration, streak tracking, and badges</B> to motivate progress.  
 Developed as part of an Operating Systems course project, it demonstrates backend & frontend mobile development concepts.  
 <br />
+<h2>Presentation</h2>
+- 📊 [View the presentation slides](https://docs.google.com/presentation/d/18dhhIw1oX18SoxysW4-weaVTAMNsWxSts0WhG2cabVw/mobilepresent?slide=id.g32fce2cff5f_0_0)  
 
 <h2>Languages and Utilities Used</h2>
 
