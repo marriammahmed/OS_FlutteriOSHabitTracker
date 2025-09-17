@@ -10,7 +10,7 @@ Developed as part of an Operating Systems course project, it demonstrates backen
 <br />
 <br />
 
-<b>Course outcomes and skills</b>  
+<b>Course Outcomes & skills:</b>  
 This course focused on core operating system concepts, resource management, and system programming, with an emphasis on practical applications for software development and performance optimization. Key technical skills and knowledge gained include:  
 - Mastery of <b>process management</b>: scheduling algorithms, context switching, deadlock prevention and handling, and multithreading for efficient CPU utilization  
 - Understanding of <b>memory management</b> concepts: virtual memory, paging, segmentation, and efficient allocation strategies  
